@@ -6,7 +6,7 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=RudrakshDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=RudrakshDev&label=Profile%20Views&color=blueviolet&style=for-the-badge" 
   />
 </p>
 
@@ -40,16 +40,16 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/rudraksh_dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  <a href="https://twitter.com/rudraksh_dev">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
 
-  <a href="https://linkedin.com/in/rudraksh-jhaveri" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://linkedin.com/in/rudraksh-jhaveri">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
-  <a href="https://github.com/RudrakshDev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <a href="https://github.com/RudrakshDev">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
@@ -59,7 +59,7 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,kubernetes,aws,gcp,linux,bash,git,github,tailwind,bootstrap,sass,python,java,selenium,opencv&perline=8" 
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,kubernetes,aws,gcp,linux,bash,git,github,tailwind,bootstrap,sass,python,java&perline=8"
   />
 </p>
 
@@ -69,12 +69,14 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RudrakshDev&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RudrakshDev&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
   />
-  
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshDev&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RudrakshDev&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
