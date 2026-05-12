@@ -5,9 +5,7 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 </h3>
 
 <p align="center">
-  <a href="https://github.com/RudrakshDev">
-    <img src="https://komarev.com/ghpvc/?username=rudrakshdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=RudrakshDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -40,17 +38,17 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/rudraksh_dev" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
-</a>
+  <a href="https://twitter.com/rudraksh_dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
 
-<a href="https://linkedin.com/in/rudraksh-jhaveri" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+  <a href="https://linkedin.com/in/rudraksh-jhaveri" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 
-<a href="https://github.com/RudrakshDev" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://github.com/RudrakshDev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
 </p>
 
 ---
@@ -66,9 +64,17 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudrakshDev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshDev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RudrakshDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    height="170"
+  />
+
 </p>
 
 ---
@@ -76,7 +82,9 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudrakshDev&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=RudrakshDev&theme=tokyonight&hide_border=true&background=00000000" 
+  />
 </p>
 
 ---
@@ -84,15 +92,30 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshDev&theme=tokyo-night&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshDev&theme=tokyo-night&hide_border=true&bg_color=00000000" 
+    width="95%"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RudrakshDev/RudrakshDev/output/snake.svg" alt="Snake animation" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=RudrakshDev&theme=tokyonight&no-frame=true&row=1&column=6" 
+  />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+  />
 </p>
 
 ---
