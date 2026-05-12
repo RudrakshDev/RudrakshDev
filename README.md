@@ -10,7 +10,7 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🔭 I’m currently working on **Full Stack MERN applications, AI automation workflows, and real-world developer tools**
 
@@ -35,7 +35,7 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://twitter.com/rudraksh_dev" target="_blank">
@@ -53,68 +53,80 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,kubernetes,aws,gcp,linux,bash,git,github,tailwind,bootstrap,sass,python,java,selenium,opencv&perline=8" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RudrakshDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
-    height="170"
-  />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
+# 💻 Tech Stack
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=RudrakshDev&theme=tokyonight&hide_border=true&background=00000000" 
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,kubernetes,aws,gcp,linux,bash,git,github,tailwind,bootstrap,sass,python,java,selenium,opencv&perline=8" 
   />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshDev&theme=tokyo-night&hide_border=true&bg_color=00000000" 
-    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RudrakshDev&theme=github_dark"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RudrakshDev&theme=github_dark"
+    width="32%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RudrakshDev&theme=github_dark"
+    width="32%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RudrakshDev&theme=github_dark"
+    width="32%"
   />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=RudrakshDev&theme=tokyonight&no-frame=true&row=1&column=6" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=RudrakshDev&theme=github-dark&hide_border=true"
   />
 </p>
 
 ---
 
-## 💡 Random Dev Quote
+# 📈 Contribution Graph
 
 <p align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshDev&theme=github-dark&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=RudrakshDev&theme=darkhub&no-frame=true&row=1&column=6"
+  />
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
   />
 </p>
 
