@@ -5,7 +5,9 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RudrakshDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=RudrakshDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+  />
 </p>
 
 ---
@@ -67,25 +69,13 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RudrakshDev&theme=github_dark"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RudrakshDev&theme=github_dark"
-    width="32%"
+    src="https://github-readme-stats.vercel.app/api?username=RudrakshDev&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
   />
   
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RudrakshDev&theme=github_dark"
-    width="32%"
-  />
-  
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RudrakshDev&theme=github_dark"
-    width="32%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshDev&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
   />
 </p>
 
@@ -95,7 +85,7 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=RudrakshDev&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=RudrakshDev&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -105,28 +95,8 @@ A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshDev&theme=github-dark&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=RudrakshDev&theme=darkhub&no-frame=true&row=1&column=6"
-  />
-</p>
-
----
-
-# 💡 Random Dev Quote
-
-<p align="center">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshDev&theme=tokyo-night&hide_border=true"
+    width="95%"
   />
 </p>
 
