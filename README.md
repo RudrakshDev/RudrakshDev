@@ -1,109 +1,70 @@
-<h1 align="center">Hi 👋, I'm Rudraksh Jhaveri</h1>
+<div align="center">
 
-<h3 align="center">
-A passionate Full Stack MERN Developer & AI Automation Enthusiast from India
-</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand">
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=RudrakshDev&label=Profile%20Views&color=blueviolet&style=for-the-badge" 
-  />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%F0%9F%91%8B+Hey!+I'm+Rudraksh%20Jhaveri;%F0%9F%9A%80+Full%20Stack%20Developer+%7C+%F0%9F%8C%99+Creative%20coder)](https://git.io/typing-svg)
+
+![Visitors](https://komarev.com/ghpvc/?username=RudrakshDev&color=ff6ec7&style=for-the-badge&label=VISITORS)
+
+</div>
 
 ---
 
-# 🚀 About Me
+## ⚡ Quick Facts
 
-- 🔭 I’m currently working on **Full Stack MERN applications, AI automation workflows, and real-world developer tools**
-
-- 🌱 I’m currently learning **DevOps, Docker, AWS, System Design, Cloud Infrastructure, and AI Integrations**
-
-- 👯 I’m looking to collaborate on **Open Source & AI Projects**
-
-- 🤝 I’m looking for help with **Scalable Backend Systems**
-
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Docker, Linux, Git/GitHub, MERN Stack, and Automation**
-
-- 📫 Reach me at **rudrakshjhaveri28@gmail.com**
-
-- 👨‍💻 Portfolio:  
-  **https://rudrakshjhaveri.me**
-
-- 📄 Resume:  
-  **https://www.rudrakshjhaveri.me/resume**
-
-- ⚡ Fun fact:  
-  **I enjoy turning random ideas into real-world projects and solving practical problems with technology 🚀**
+```yaml
+name: Rudraksh Jhaveri
+role: Full Stack Developer
+location: India
+currently_building: Building AI-powered automation tools that eliminate repetitive business workflows
+currently_learning: Advanced System Design, AI Agents, RAG, and Scalable MERN Architecture
+fun_fact: "I code better with coffee ☕"
+```
 
 ---
 
-# 🌐 Connect With Me
+## 🧰 Toolbox
 
-<p align="left">
-  <a href="https://twitter.com/rudraksh_dev">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
+<div align="center">
 
-  <a href="https://linkedin.com/in/rudraksh-jhaveri">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,mongodb,postgres,mysql,sqlite,firebase,supabase,prisma,aws,vercel,netlify,cloudflare,docker,kubernetes,nginx,githubactions,jenkins,terraform,git,github,gitlab,figma,postman,bash,tailwind,opencv,gcp,azure,redis,redux,sass&perline=6)](https://skillicons.dev)
 
-  <a href="https://github.com/RudrakshDev">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 📊 Stats & Streaks
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,kubernetes,aws,gcp,linux,bash,git,github,tailwind,bootstrap,sass,python,java&perline=8"
-  />
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=RudrakshDev&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub stats" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RudrakshDev&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top langs" />
 
-# 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RudrakshDev&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RudrakshDev&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RudrakshDev&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🤝 Let's Connect!
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=RudrakshDev&theme=tokyonight&hide_border=true"
-  />
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh-jhaveri)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rudraksh_Dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://rudrakshjhaveri.tech/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrakshjhaveri28@gmail.com)
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RudrakshDev&theme=tokyo-night&hide_border=true"
-    width="95%"
-  />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/RudrakshDev">RudrakshDev</a>
-</p>
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23ff6ec7&aColor=%2358a6ff" alt="Jokes Card" />
+
+</div>
